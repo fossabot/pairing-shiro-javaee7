@@ -1,4 +1,6 @@
 # ShiroTutorial
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnebrass%2Fpairing-shiro-javaee7.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnebrass%2Fpairing-shiro-javaee7?ref=badge_shield)
+
 Source codes for the Apache Shiro Tutorial
 This demo application is a full showcase of :
 * Apache Shiro 1.2.4
@@ -16,3 +18,7 @@ Plannified:
 * RxJava ?
 * AngularJS 2 ?
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnebrass%2Fpairing-shiro-javaee7.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnebrass%2Fpairing-shiro-javaee7?ref=badge_large)
